@@ -56,7 +56,7 @@ export default function CustomerForm() {
           {/* Basic Details */}
           <div className="p-6 shadow-lg glass-effect rounded-2xl">
             <h3 className="flex items-center gap-2 mb-4 text-base font-semibold text-foreground">
-              <div className="w-1 h-5 rounded-full bg-gradient-accent"></div>
+              <div className="w-1 h-5 rounded-full bg-gradient-to-b from-blue-500 via-purple-500 to-pink-500" />
               Basic Details
             </h3>
 
@@ -97,7 +97,7 @@ export default function CustomerForm() {
           {/* Contact */}
           <div className="p-6 shadow-lg glass-effect rounded-2xl">
             <h3 className="flex items-center gap-2 mb-4 text-base font-semibold text-foreground">
-              <div className="w-1 h-5 rounded-full bg-gradient-accent"></div>
+              <div className="w-1 h-5 rounded-full bg-gradient-to-b from-blue-500 via-purple-500 to-pink-500" />
               Contact Information
             </h3>
             <div className="space-y-4">
@@ -129,7 +129,7 @@ export default function CustomerForm() {
           {/* Finance */}
           <div className="p-6 shadow-lg glass-effect rounded-2xl">
             <h3 className="flex items-center gap-2 mb-4 text-base font-semibold text-foreground">
-              <div className="w-1 h-5 rounded-full bg-gradient-accent"></div>
+             <div className="w-1 h-5 rounded-full bg-gradient-to-b from-blue-500 via-purple-500 to-pink-500" />
               Finance Details
             </h3>
             <div className="grid grid-cols-1 gap-4">
@@ -153,7 +153,7 @@ export default function CustomerForm() {
           {/* Sales & Location */}
           <div className="p-6 shadow-lg glass-effect rounded-2xl">
             <h3 className="flex items-center gap-2 mb-4 text-base font-semibold text-foreground">
-              <div className="w-1 h-5 rounded-full bg-gradient-accent"></div>
+              <div className="w-1 h-5 rounded-full bg-gradient-to-b from-blue-500 via-purple-500 to-pink-500" />
               Sales & Location
             </h3>
             <div className="space-y-4">
@@ -192,7 +192,7 @@ export default function CustomerForm() {
           {/* Address */}
           <div className="p-6 shadow-lg glass-effect rounded-2xl">
             <h3 className="flex items-center gap-2 mb-4 text-base font-semibold text-foreground">
-              <div className="w-1 h-5 rounded-full bg-gradient-accent"></div>
+              <div className="w-1 h-5 rounded-full bg-gradient-to-b from-blue-500 via-purple-500 to-pink-500" />
               Address
             </h3>
             <div className="space-y-4">
@@ -225,7 +225,7 @@ export default function CustomerForm() {
           {/* Documents */}
           <div className="p-6 shadow-lg glass-effect rounded-2xl">
             <h3 className="flex items-center gap-2 mb-4 text-base font-semibold text-foreground">
-              <div className="w-1 h-5 rounded-full bg-gradient-accent"></div>
+              <div className="w-1 h-5 rounded-full bg-gradient-to-b from-blue-500 via-purple-500 to-pink-500" />
               Documents
             </h3>
             <div className="space-y-4">
